@@ -30,7 +30,7 @@ namespace ZeusSharp
         private static Key stealToggleKey = Key.L;
         private static Key blinkToggleKey = Key.P;
         private static Key confirmStealKey = Key.G;
-        private static Key refresherToggleKey = Key.O;
+        private static Key refresherToggleKey = Key.Y;
         private static string steallableHero;
 
         private static int[] rDmg = new int[3] { 225, 350, 475 };
